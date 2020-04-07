@@ -17,3 +17,5 @@ El cálculo se efectua bajo las siguientes reglas:
 
 # Respuesta
 Se trata de una respuesta rest en formato json con la cantidad a pagar por la empresa y por otra parte el detalle de lo que cada trabajador debe pagar, ambas en UF.
+
+Este ejercicio esta configurado con el plugin serverless offline
